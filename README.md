@@ -1,4 +1,4 @@
-# 🏷️​ Lenguajes de marcas
+# 📑​​ Lenguajes de marcas
   
 En este repositorio se encuentran los ejercicios de la asignatura de lenguajes de marcas.  
   
